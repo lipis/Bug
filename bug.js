@@ -27,8 +27,6 @@
  * Released under WTFPL license.
  *
  */
-"use strict";
-
 
 var BugDispatch = {
 
